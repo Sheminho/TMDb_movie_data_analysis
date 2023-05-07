@@ -18,7 +18,7 @@ Analyzing TMDb_movie website to answer some questions like explore the correlati
 ## Exploring Data Section:
    > After wrangling the data, In this section we will answer some questions by analysing the data to create some Conclusions about the    dataframe, you can see the analyzing proccess from the <b> ipynb </b>or <b>html</b> files. All these questions is from my deep mind and of course you may have different questions so don't be restricted by this questions.
 ## Data Visualization Section:
-  > After doing the exploration on the data and answering all the questions I took this clean data and put it in [Google data studio](https://lookerstudio.google.com/s/lIxdcCNslrM) to do some visualizing on it and make data easy to read and you can see the interactive report <b> [HERE](https://lookerstudio.google.com/s/lIxdcCNslrM) <b>.
+  > After doing the exploration on the data and answering all the questions I took this clean data and put it in [Google data studio](https://lookerstudio.google.com/s/lIxdcCNslrM) to do some visualizing on it and make data easy to read and you can see the interactive report <b> [HERE](https://lookerstudio.google.com/s/lIxdcCNslrM) </b>.
 ## Conclusion:
 * The correlation between the budget and the popularity is 0.54 means if the budget is high that does mean that the movie has chance to be popular.
 * The voting results does not return the popularity, because the correlation between them is weak 0.2
